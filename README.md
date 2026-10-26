@@ -42,12 +42,14 @@ This project uses the Brazilian E-Commerce Public Dataset by Olist.
 
 GitHub: [@rohiththakur1972](https://github.com/rohiththakur1972)
 
-Power BI Dashboard
+## Power BI Dashboard
 
-1. Sales Overview
+### 1. Sales Overview
+![Sales Overview](SALES%20OVERVIEW.png)
 
+### 2. Product and Customer Analysis
+![Product and Customer Analysis](PRODUCT%20AND%20CUSTOMER%20ANALYSIS.png)
 
-2. Product and Customer Analysis
+### 3. Order and Operations Analysis
+![Order and Operations Analysis](ORDERS%20AND%20OPERATIONS%20ANALYSIS%20.png)
 
-
-3. Order and Operations Analysis
