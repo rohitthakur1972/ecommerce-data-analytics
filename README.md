@@ -41,3 +41,13 @@ This project uses the Brazilian E-Commerce Public Dataset by Olist.
 ## Author
 
 GitHub: [@rohiththakur1972](https://github.com/rohiththakur1972)
+
+Power BI Dashboard
+
+1. Sales Overview
+
+
+2. Product and Customer Analysis
+
+
+3. Order and Operations Analysis
