@@ -1,80 +1,43 @@
-\# E-Commerce Data Analytics
+# E-Commerce Data Analytics
 
-
-
-\## Project Overview
+## Project Overview
 
 This project analyzes e-commerce sales, customers, products, payments, and order delivery performance using SQL and Power BI.
 
+## Tools Used
 
+- SQL
+- Microsoft Power BI
+- DAX
+- Power Query
 
-\## Tools Used
+## Project Structure
 
-\- SQL
+- `data/` — Dataset files
+- `sql/` — SQL analysis scripts
+- `power bi/` — Power BI report
 
-\- Microsoft Power BI
+## Key Analysis Areas
 
-\- DAX
+- Business KPIs and sales performance
+- Customer analysis
+- Product performance
+- Seller analysis
+- Delivery and logistics
+- Payment and revenue analysis
+- Review and customer satisfaction analysis
 
-\- Power Query
+## Dataset
 
+This project uses the Brazilian E-Commerce Public Dataset by Olist.
 
+## Project Goals
 
-\## Project Structure
+- Identify sales and revenue trends.
+- Analyze customer purchasing behavior.
+- Evaluate product and seller performance.
+- Assess delivery performance and customer satisfaction.
 
-\- `data/` — Dataset files
+## Author
 
-\- `sql/` — SQL analysis scripts
-
-\- `power bi/` — Power BI report
-
-\- `python/` — Python project folder
-
-
-
-\## Power BI Dashboard
-
-The report contains three pages:
-
-1\. Sales Overview
-
-2\. Product and Customer Analysis
-
-3\. Order and Operations Analysis
-
-
-
-\## Analysis Areas
-
-\- Revenue and sales trends
-
-\- Product category performance
-
-\- Customer distribution and repeat purchases
-
-\- Order status and delivery performance
-
-\- Payment method distribution
-
-\- Freight cost analysis
-
-
-
-\## Project Status
-
-This project is being reviewed and refined. KPI definitions, calculations, and business findings should be validated before drawing final conclusions.
-
-
-
-\## Data Source
-
-Add the original dataset name, source URL, and attribution here before publishing.
-
-
-
-\## Author
-
-Rohit
-
-
-
+GitHub: [@rohiththakur1972](https://github.com/rohiththakur1972)
